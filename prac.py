@@ -7,5 +7,9 @@ print(name)
 
 print("this is new branch")
 print("musa shahid")
-print(" change")
+<<<<<<< HEAD
+print("master change")
+=======
+print("master change")
+>>>>>>> master
 print("changes")
